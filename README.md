@@ -25,6 +25,7 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rotas-da-aplicação">Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#checkered_flag-execute-o-projeto-localmente">Execute o projeto localmente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -65,6 +66,28 @@ Nesse desafio, foi criado uma aplicação para armazenar repositórios do seu po
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, deve ser verificado na rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
 
+### :checkered_flag: Execute o projeto localmente:
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/JonasCastro/conceitos-nodejs.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd conceitos-nodej
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+# O servidor inciará na porta:3333 - 
+# Acesse http://localhost:3333
+
+# Para executar os testes da aplicação
+$ yarn test
+ 
+```
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
