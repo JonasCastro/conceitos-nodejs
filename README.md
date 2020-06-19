@@ -73,7 +73,7 @@ Nesse desafio, foi criado uma aplicação para armazenar repositórios do seu po
 $ git clone https://github.com/JonasCastro/conceitos-nodejs.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd conceitos-nodej
+$ cd conceitos-nodejs
 
 # Instale as dependências
 $ yarn
@@ -81,8 +81,7 @@ $ yarn
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
-# O servidor inciará na porta:3333 - 
-# Acesse http://localhost:3333
+# O servidor inciará na porta:3333 
 
 # Para executar os testes da aplicação
 $ yarn test
@@ -94,4 +93,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-by JonasCastro :wave: [Stay in touch!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
+- Feito com :blue_heart: by Jonas Castro :wave: [Stay in touch!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
+- Template Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
