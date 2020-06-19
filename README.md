@@ -1,10 +1,7 @@
-
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-</h1>
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 02: Conceitos do Node.js
+  Solução do Desafio 02: Conceitos do Node.js
 </h3>
 
 
@@ -19,6 +16,9 @@
 
   <a href="https://github.com/JonasCastro/conceitos-nodejs/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jonascastro/conceitos-nodejs?style=social">
+  </a>
+     <a href="https://github.com/Rocketseat/gostack-template-conceitos-nodejs">
+    <img alt="Template Rocketseat" src="https://img.shields.io/badge/Template%20-Rocketseat-%2304D361">
   </a>
 </p>
 
